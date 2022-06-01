@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="AddStory.cpp" />
+    <ClCompile Include="DashForm.cpp" />
+    <ClCompile Include="FriendStory.cpp" />
+    <ClCompile Include="LoginForm.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="message.cpp" />
+    <ClCompile Include="MyForm.cpp" />
+    <ClCompile Include="MyStory.cpp" />
+    <ClCompile Include="RegisterForm.cpp" />
+    <ClCompile Include="StoryMain.cpp" />
+    <ClCompile Include="Testy.cpp" />
+    <ClCompile Include="UserProfileForm.cpp" />
+    <ClCompile Include="ViewUserProfile.cpp" />
+    <ClCompile Include="AddForm.cpp" />
+    <ClCompile Include="home.cpp" />
+    <ClCompile Include="CreateGroup.cpp" />
+    <ClCompile Include="Groups.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AddStory.h" />
+    <ClInclude Include="Contacts.h" />
+    <ClInclude Include="DashForm.h" />
+    <ClInclude Include="FriendStory.h" />
+    <ClInclude Include="LoginForm.h" />
+    <ClInclude Include="message.h" />
+    <ClInclude Include="MyForm.h" />
+    <ClInclude Include="MyStory.h" />
+    <ClInclude Include="RegisterForm.h" />
+    <ClInclude Include="Story.h" />
+    <ClInclude Include="StoryMain.h" />
+    <ClInclude Include="Testy.h" />
+    <ClInclude Include="UserProfileForm.h" />
+    <ClInclude Include="ViewUserProfile.h" />
+    <ClInclude Include="AddForm.h" />
+    <ClInclude Include="home.h" />
+    <ClInclude Include="CreateGroup.h" />
+    <ClInclude Include="Groups.h" />
+    <ClInclude Include="showChats.h" />
+  </ItemGroup>
+</Project>
