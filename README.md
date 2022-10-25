@@ -1,4 +1,4 @@
-# ChitChat
+# ChitChat_App
 ChitChat application where you can register and login, navigate from home page, create chat group and text your friends, send them messages, add new contacts, switch account, and add stories.
 
 ## Contirbuters
